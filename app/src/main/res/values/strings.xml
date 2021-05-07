@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HW 9 Nav and Reg</string>
+    <string name="enter_login">Введите логин</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="btn_login">Вход</string>
+    <string name="btn_registration">Регистрация</string>
+    <string name="btn_confirm">подтвердить</string>
+    <string name="btn_cancel">отмена</string>
+    <string name="edit_password_repeat">Повторите пароль</string>
+    <string name="success">Добро пожаловать!</string>
+    <string name="authentication_failed">Неправельный логин или пароль!</string>
+    <string name="registration_failed">Такой логин уже существует</string>
+    <string name="auth_label">Авторизация</string>
+    <string name="reg_label">Регистрация</string>
+    <string name="good_reg">Успешная регистрация</string>
+    <string name="feed_label">Лента с постами</string>
+    <string name="error_password_not_same">Пароль должен быть из латинских букв, не короче 6 символов и иметь хотябы одну заглавную букву.</string>
+    <string name="error_password_not_same_2">Пароли должны быть синхронны!!!.</string>
+    <string name="titlePD">Информация</string>
+    <string name="massagePD">Соединение с сервером...</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_feed_activity">Лента постов</string>
+
+    <string name="error_create_post">Ошибка при создании поста.</string>
+    <string name="error_take_post">Такого поста не существует.</string>
+</resources>
